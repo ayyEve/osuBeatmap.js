@@ -1,6 +1,5 @@
 // @ts-check
 
-// @ts-ignore
 const fs = require('fs');
 
 class BeatmapFile {
